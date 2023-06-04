@@ -1,0 +1,7 @@
+https://lib.rs/stats - categories for Rust crates
+https://juliahub.com/blog/2023/01/annual-julia-growth-statistics/ - Julia packages analysis
+https://nimble.directory - Nim packages. Uses tags
+https://aquila.red/stats - Zig packages stats.
+
+
+Think about classification category library - spaCy. From R for example.
